@@ -1,8 +1,20 @@
 port: 8080
-
+nickname:
+  - 萝拉
 plugins:
   console:
     open: true
-  logger:
-  manager:
-  status:
+  logger: null
+  manager: null
+  status: null
+  image-search:
+    saucenaoApiKey:
+      - 00877b50671e88560c0400f5047a111123386cd2
+  ~dataview: null
+  adapter-onebot:
+    bots:
+      - selfId: '1215501732'
+        password: yctmyyxwyy*
+        endpoint: ws://127.0.0.1:6700
+        protocol: ws
+        disabled: false
