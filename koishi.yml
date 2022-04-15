@@ -10,7 +10,6 @@ plugins:
   image-search:
     saucenaoApiKey:
       - 00877b50671e88560c0400f5047a111123386cd2
-  ~dataview: null
   adapter-onebot:
     bots:
       - selfId: '1215501732'
@@ -18,3 +17,8 @@ plugins:
         endpoint: ws://127.0.0.1:6700
         protocol: ws
         disabled: false
+  cache-memcached: null
+  database-memory: null
+  teach: null
+  thesaurus: null
+  dataview: null
