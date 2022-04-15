@@ -39,6 +39,6 @@
     "@koishijs/plugin-manager": "^1.6.0",
     "@koishijs/plugin-status": "^5.3.4",
     "koishi": "^4.5.1",
-    "koishi-plugin-image-search": "4.0.1"
+    "koishi-plugin-image-search": "4.0.3"
   }
 }

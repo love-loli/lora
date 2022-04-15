@@ -1933,10 +1933,10 @@ koa@^2.13.4:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-koishi-plugin-image-search@4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/koishi-plugin-image-search/-/koishi-plugin-image-search-4.0.1.tgz#2029fb182b4e657150b6a154f5afe22730d60cf0"
-  integrity sha512-bC0HvNDIbd3qxFeWpUrcaM0wTs/vJphbt5suppjU+ylauykaFacCsfQT/XJusSWWiPVJViIRAhCt0Z4Ty/Mmgg==
+koishi-plugin-image-search@4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/koishi-plugin-image-search/-/koishi-plugin-image-search-4.0.3.tgz#d87c3350ac5d4c24a7f84104015d065c5dcecec2"
+  integrity sha512-/eM/MvWwfpglS7K6E3PjOoFEYoGW42l6/bI6sZf8wS0Np1kWs+mO8rsqqjn8xdO6oTa89F2Pp1MYOBvWPh2PvQ==
   dependencies:
     cheerio "^1.0.0-rc.10"
     iqdb-client "^1.1.0"
